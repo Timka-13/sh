@@ -1,0 +1,95 @@
+body {
+    font-family: sans-serif;
+}
+    h1{
+        color: black;
+        text-align: center;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+
+h2 {
+    font-size:20px;
+}
+h1{
+     font-size: 17px;
+     color: black;
+     text-decoration: none;
+     background-color: white;
+     border: 5px solid
+}
+nav {
+  font-size: 17px; 
+  color: black;
+  text-decoration: none; 
+  text-align: center;
+}
+.models{
+   color: black;
+  text-decoration: none;
+  border-radius: 10px;
+  background-color: Chocolate;
+  margin: 10px;
+  padding: 5px; 
+}
+.about{
+   color: black;
+text-decoration: none;
+border-radius: 10px;
+background-color: Chocolate;
+margin: 10px;
+padding: 5px;
+}
+.more{
+   color: black;
+    text-decoration: none;
+    border-radius: 10px;
+    background-color: Chocolate;
+    margin: 10px;
+    padding: 5px;
+}
+header {
+    background-color: LightCyan;
+}
+
+ul {
+  border: 3px dashed;
+}
+img{
+  width: 430px;
+}
+.one{
+  margin-bottom: 70px;
+  margin-top: 25px;
+  width: 480px;
+}
+.oneT{
+ margin-top: 60px;
+ float: right;
+ margin-right: 20px;
+ font-size: 30px;
+}
+.two{
+  float: right;
+  margin-right: 30px;
+  width: 480px;
+  margin-bottom: 30px;
+}
+.twoT{
+  float: left;
+  margin-top: 10px;
+   font-size: 30px;
+}
+.three{
+  margin-left: 5px;
+    width: 450px;
+    margin-top: 20px;
+}
+.threeT{
+position: absolute;
+  top: 460px;
+  right: 30px;
+  float: right;
+  margin-top: 320px;
+   font-size: 30px;
+   margin-bottom: 20px;
+}
